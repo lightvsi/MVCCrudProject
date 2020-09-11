@@ -8,6 +8,7 @@
 - **Spring MVC** для обработки запросов
 - **Spring JPA** для связи с БД
 - **Spring Web Services** для взаимодействия с TimeService
+- **MySQL** - СУБД
 ## Frontend
 **Frontend** модуль реализован с помощью **Vue.js**. Отображает содержимое таблиц БД, обращаясь к REST API модулю для их получения, и время, которое REST API получает от TimeService.
 ## TimeService
