@@ -1,7 +1,7 @@
 # MVCCrudProject
 ![alt text](https://github.com/lightvsi/MVCCrudProject/blob/master/Task.PNG?raw=true)
 
-Проект состоит из 3 модулей.
+**Проект состоит из 3 модулей.**
 ## SpringMVCApp
 **SpringMVCApp** - REST API модуль, который осуществляет взаимодействие с frontend модулем и TimeService модулем (с помощью SOAP). 
 Использует:
