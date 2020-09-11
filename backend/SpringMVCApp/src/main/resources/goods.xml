@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<goods>
+    <goodDescriptions>
+        <serialNumber>jp38039</serialNumber>
+        <name>computer</name>
+        <address>Miami,USA</address>
+        <goodDate>2025-09-13</goodDate>
+    </goodDescriptions>
+
+    <goodDescriptions>
+        <serialNumber>bj38844</serialNumber>
+        <name>bottle</name>
+        <address>NewYork,USA</address>
+        <goodDate>2037-05-14</goodDate>
+    </goodDescriptions>
+
+    <goodDescriptions>
+        <serialNumber>gc57134</serialNumber>
+        <name>bow</name>
+        <address>Moscow,Russia</address>
+        <goodDate>2013-08-25</goodDate>
+    </goodDescriptions>
+
+    <goodDescriptions>
+        <serialNumber>di83059</serialNumber>
+        <name>monitor</name>
+        <address>Berlin,Germany</address>
+        <goodDate>2015-01-30</goodDate>
+    </goodDescriptions>
+
+    <goodDescriptions>
+    <serialNumber>kf92145</serialNumber>
+    <name>lamp</name>
+    <address>Berlin,Germany</address>
+    <goodDate>2015-01-30</goodDate>
+    </goodDescriptions>
+
+    <goodDescriptions>
+        <serialNumber>xz95430</serialNumber>
+        <name>table</name>
+        <address>Rome,Italy</address>
+        <goodDate>2015-12-11</goodDate>
+    </goodDescriptions>
+
+    <goodDescriptions>
+        <serialNumber>kf31958</serialNumber>
+        <name>lamp</name>
+        <address>Berlin,Germany</address>
+        <goodDate>2015-01-30</goodDate>
+    </goodDescriptions>
+
+    <goodDescriptions>
+        <serialNumber>xz99430</serialNumber>
+        <name>table</name>
+        <address>Paris,France</address>
+        <goodDate>2015-12-11</goodDate>
+    </goodDescriptions>
+</goods>

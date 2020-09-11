@@ -1,0 +1,25 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="data.timeservice.lightvsi.ru"
+           targetNamespace="data.timeservice.lightvsi.ru" elementFormDefault="qualified">
+
+    <xs:element name="getTimeRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="timezone" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="getTimeResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="currenttime" type="tns:currenttime"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="currenttime">
+        <xs:restriction base="xs:dateTime">
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>
