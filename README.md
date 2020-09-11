@@ -5,9 +5,9 @@
 ## SpringMVCApp
 **SpringMVCApp** - REST API модуль, который осуществляет взаимодействие с frontend модулем и TimeService модулем (с помощью SOAP). 
 Использует:
-- **Spring MVC** для обработки запросов
+- **Spring MVC** для обработки запросов (REST)
+- **Spring Web Services** для взаимодействия с TimeService (SOAP)
 - **Spring JPA** для связи с БД
-- **Spring Web Services** для взаимодействия с TimeService
 - **MySQL** - СУБД
 ## Frontend
 **Frontend** модуль реализован с помощью **Vue.js**. Отображает содержимое таблиц БД, обращаясь к REST API модулю для их получения, и время, которое REST API получает от TimeService.
